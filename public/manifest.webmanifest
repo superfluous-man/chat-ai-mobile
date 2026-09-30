@@ -1,0 +1,9 @@
+{
+  "name": "Private AI Chat",
+  "short_name": "AI Chat",
+  "description": "A private personal AI chat.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f7f6f2",
+  "theme_color": "#f7f6f2"
+}
